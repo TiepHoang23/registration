@@ -1,7 +1,7 @@
 # Infomation APP
 
-Random MEMEs - BTVN môn Web nâng cao Sinh viên: 19120443 - Hoàng Văn Tiệp Host: https://splendid-belekoy-
-01b487.netlify.app
+Random MEMEs - BTVN môn Web nâng cao Sinh viên: 19120443 - Hoàng Văn Tiệp 
+Host: https://splendid-belekoy-01b487.netlify.app
 ## Task
 - Routing: react-router or equivalent: 3 points
 - Form: react-hook-form or equivalent: 3 points
